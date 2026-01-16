@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <title>Моя страница</title>
+    <meta charset="UTF-8">
+    <title>Мой блог по криптографии</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+        h1 { color: #2c3e50; }
+        .task { margin-bottom: 20px; padding: 10px; background: #f9f9f9; border-left: 4px solid #3498db; }
+    </style>
 </head>
 <body>
-    <p>16 января 2026 года</p>
-</body>
-</html>
+    <p><strong>Текущая дата:</strong> 16 января 2026 г.</p>
+
+    <h1>Решение шифров Цезаря</h1>
